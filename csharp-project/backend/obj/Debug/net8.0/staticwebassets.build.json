@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "p2HvRqczck3GwBdszVd17G3m4LVlqlnYyFPwV5AVIh4=",
+  "Source": "CsharpProject.Api",
+  "BasePath": "_content/CsharpProject.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
